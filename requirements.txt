@@ -1,2 +1,5 @@
 jupyter==1.0.0
 requests==2.9.1
+Shapely==1.5.15
+Rtree==0.8.2
+pandas==0.18.0

@@ -18,6 +18,10 @@ Create a virtualenv:
 
     mkvirtualenv public-notebooks
 
+Install system dependencies:
+
+    brew install spatialindex
+
 Install dependencies:
 
     cd public-notebooks
